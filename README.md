@@ -4,8 +4,8 @@ A more in depth professional portfolio page
 
 https://getbootstrap.com/docs/4.1/components/navbar/
 
-https://getbootstrap.com/docs/4.0/components/card/
+https://getbootstrap.com/docs/4.0/layout/grid/
 
 
 
-https://pixabay.com/photos/water-sea-caribbean-background-1330252/
+https://www.w3schools.com/html/html_images.asp
