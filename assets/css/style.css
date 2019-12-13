@@ -16,3 +16,7 @@ body {
   .fa:hover {
     opacity: 0.7;
   }
+.jumbotron{
+  width: 80%;
+  background-position: center;
+}
