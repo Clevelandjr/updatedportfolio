@@ -39,7 +39,7 @@ body {
   overflow-y: scroll;
 }
 .col-sm{
-  background-color: #5a5a5a;
+  background-color: #ffffff;
 }
  /* Media Queries: Tablet Landscape */
  @media screen and (max-width: 1060px) {
