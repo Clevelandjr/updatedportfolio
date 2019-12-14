@@ -20,6 +20,7 @@ body {
   width: 90%;
 }
 .navbar{
+  position: sticky;
   margin-bottom: 30px;
 }
 img{
